@@ -1,0 +1,15 @@
+{
+  "name": "gql-tag-objection-notation",
+  "version": "2.2.0",
+  "description": "Tool for converting gql-tag object to objectionjs object notation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "objectionjs",
+    "graphql-tag"
+  ],
+  "author": "Liridon Sela",
+  "license": "MIT"
+}
